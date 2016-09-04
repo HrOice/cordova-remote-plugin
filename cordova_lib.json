@@ -1,0 +1,17 @@
+[
+	{
+		"key":"test",
+		"url":"test.js",
+		"version":"2016090103"
+	},
+	{
+		"key":"cordova",
+		"url":"cordova.js",
+		"version":"2016090103"
+	},
+	{
+		"key":"cordova_plugins",
+		"url":"cordova_plugins.js",
+		"version":"2016090103"
+	}
+]
